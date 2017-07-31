@@ -57,12 +57,14 @@
       <div class="row banner">
          <div class="banner-text">
             <h1 class="responsive-headline">I'm Prabhat Tripathi</h1>
-            <h3>I'm a <spam> Developer </spam>.<a class="smoothscroll" href="#about">start scrolling</a>
+            <h3>I'm a <spam> Full Stack developer </span> and <spam> Software Developer </spam> enthusiast.Want to know me  <a class="smoothscroll" href="#about">start scrolling</a>
              <a class="smoothscroll" href="#about">about me</a>.</h3>
             <hr />
             <ul class="social">
                <li><a href="https://www.facebook.com/?stype=lo&jlou=AfcGC8rOr_gzlE_d6uLhNwvutKvPKFDXG4j3GhWL3qhLjDy2fdNhdnjzsqRH3KcCipcQuTw1b1tEdlqSi-FxY9ooDhbzUGIhfeO8OAvNiTj3uQ&smuh=34369&lh=Ac_adm64mH1lpb-j" target="_blank"><i class="fa fa-facebook"></i></a></li>
                <li><a href="https://www.gmail.com"><i class="fa fa-google-plus"></i></a></li>
+               <li><a href="https://www.linkedin.com/pk07"><i class="fa fa-linkedin"></i></a></li>
+               <li><a href="#"><i class="fa fa-instagram"></i></a></li>
                <li><a href="https://www.github.com/pkt07"><i class="fa fa-github"></i></a></li>
             </ul>
          </div>
@@ -91,7 +93,7 @@
 
             <h2>About Me</h2>
 
-            <p>I am a very enthutiastic person and passionate about developing things whether it is related to web or software.I am my Btech from LNMIIT jaipur.Currently I am in 3rd year with cgpa of 7.06/10.
+            <p>I am a very enthutiastic person and passionate about developing things whether it is related to web or software.I am Sophomore pursuing my Btech from LNMIIT jaipur. My current cgpa is 7.19/10.
             
             I was also the core member of E cell club at Lnmiit beside this I also play Cricket and was also cricket coordinator.
 
@@ -172,7 +174,7 @@
 						<li><span class="bar-expand HTML"></span><em>HTML5</em></li>
 						<li><span class="bar-expand PHP"></span><em>PHP/MYSQL</em></li>
 						<li><span class="bar-expand css"></span><em>CSS</em></li>
-                  <!--<li><span class="bar-expand DJANGO"></span><em>DJANGO</em></li>-->
+                  <li><span class="bar-expand DJANGO"></span><em>DJANGO</em></li>
                   <li><span class="bar-expand DATA STRUCTURE"></span><em>DATA STRUCTURE</em></li>
 					</ul>
 
